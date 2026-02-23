@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reav4nn&label=Profile%20views&color=0e75b6&style=flat" alt="reav4nn" /> </p>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **.NET**, **ROS2**
 
 - 💬 Ask me about **.NET, React**
 
