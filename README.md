@@ -18,8 +18,6 @@ Developer · Baku, Azerbaijan
 | [**prompt-guard**](https://github.com/reav4nn/prompt-guard) | Prompt injection detection and defense for AI agents | Python |
 | [**openexport**](https://github.com/reav4nn/openexport) | Local project export tool for OpenCut via FFmpeg | TypeScript, FFmpeg |
 | [**MiUnlocker**](https://github.com/reav4nn/MiUnlocker) | On-device tool for unlocking Xiaomi bootloaders | Kotlin, Android |
-| [**yt-dlp GUI**](https://github.com/reav4nn/yt-dlp_gui) | Standalone desktop GUI for yt-dlp | Python, Tkinter |
-| [**vibeplay**](https://github.com/reav4nn/vibeplay) | Game platform client interface | TypeScript, React, .NET |
 
 ---
 
