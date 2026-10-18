@@ -14,6 +14,7 @@ Developer · Baku, Azerbaijan
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
+| [**concord**](https://github.com/reav4nn/concord) | Automated cross-checking and verification for freight & customs documents | Python |
 | [**omamail**](https://github.com/reav4nn/omamail) | Gmail client for the Omarchy shell environment | Rust |
 | [**prompt-guard**](https://github.com/reav4nn/prompt-guard) | Prompt injection detection and defense for AI agents | Python |
 | [**openexport**](https://github.com/reav4nn/openexport) | Local project export tool for OpenCut via FFmpeg | TypeScript, FFmpeg |
