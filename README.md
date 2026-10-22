@@ -14,11 +14,11 @@ Developer · Baku, Azerbaijan
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| [**concord**](https://github.com/reav4nn/concord) | Automated cross-checking and verification for freight & customs documents | Python |
-| [**omamail**](https://github.com/reav4nn/omamail) | Gmail client for the Omarchy shell environment | Rust |
-| [**prompt-guard**](https://github.com/reav4nn/prompt-guard) | Prompt injection detection and defense for AI agents | Python |
-| [**openexport**](https://github.com/reav4nn/openexport) | Local project export tool for OpenCut via FFmpeg | TypeScript, FFmpeg |
-| [**MiUnlocker**](https://github.com/reav4nn/MiUnlocker) | On-device tool for unlocking Xiaomi bootloaders | Kotlin, Android |
+| [**concord**](https://github.com/hajizadaravan/concord) | Automated cross-checking and verification for freight & customs documents | Python |
+| [**omamail**](https://github.com/hajizadaravan/omamail) | Gmail client for the Omarchy shell environment | Rust |
+| [**prompt-guard**](https://github.com/hajizadaravan/prompt-guard) | Prompt injection detection and defense for AI agents | Python |
+| [**openexport**](https://github.com/hajizadaravan/openexport) | Local project export tool for OpenCut via FFmpeg | TypeScript, FFmpeg |
+| [**MiUnlocker**](https://github.com/hajizadaravan/MiUnlocker) | On-device tool for unlocking Xiaomi bootloaders | Kotlin, Android |
 
 ---
 
@@ -37,7 +37,7 @@ Other       ::  Reverse Engineering, FFmpeg, Security Tooling
 ### Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=reav4nn&show_icons=false&bg_color=0c0c0c&title_color=f1f1ee&text_color=8d8d89&border_radius=0&hide_border=true" height="140" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hajizadaravan&show_icons=false&bg_color=0c0c0c&title_color=f1f1ee&text_color=8d8d89&border_radius=0&hide_border=true" height="140" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reav4nn&layout=compact&bg_color=0c0c0c&title_color=f1f1ee&text_color=8d8d89&border_radius=0&hide_border=true" height="140" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hajizadaravan&layout=compact&bg_color=0c0c0c&title_color=f1f1ee&text_color=8d8d89&border_radius=0&hide_border=true" height="140" alt="Top Languages" />
 </div>
